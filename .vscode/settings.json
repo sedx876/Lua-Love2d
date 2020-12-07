@@ -1,5 +1,15 @@
 {
   "Lua.diagnostics.globals": [
-    "love"
+    "love",
+    "renderer",
+    "r1",
+    "r2",
+    "g_Width",
+    "g_Height",
+    "g_GameTime",
+    "i",
+    "gameLoop",
+    "obj",
+    "createBox"
   ]
 }
